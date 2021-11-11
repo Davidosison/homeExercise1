@@ -20,8 +20,7 @@ public class FifthExercise {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         do {
-            System.out.println("Enter the Employee type.");
-            System.out.println("For junior employee enter 0 and for senior employee enter 1.");
+            System.out.println("Enter the Employee type. \nFor junior employee enter 0 and for senior employee enter 1.");
             int employeeType = in.nextInt();
 
             System.out.println("Enter how much hour the employee worked this month :");
