@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 // A program receiving two numbers, sums them
-// and tells us if the sum number is odd or even.
+// and tells the user if the sum number is odd or even.
 
-public class secondExercise {
+public class SecondExercise {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Please enter the first number :"); //Asking to use to input the first number.

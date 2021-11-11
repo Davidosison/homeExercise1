@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // A prgram that putting numbers in a decreasing order.
 
-public class thirdExercise {
+public class ThirdExercise {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Please enter 3 numbers and I put them in a decreasing order.");

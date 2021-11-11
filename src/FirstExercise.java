@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //A program outputting the absolute of a chosen number.
 
-public class firstExercise {
+public class FirstExercise {
     public static void main(String[] args) {
         System.out.println("Please enter your chosen number: "); //Asking the user to choose a number.
      Scanner scanner = new Scanner(System.in);
