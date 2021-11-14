@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d56853d0-dc65-4600-9b00-c8e14ff4f1b7" name="Changes" comment="Update to the classwork">
-      <change beforePath="$PROJECT_DIR$/src/NinthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NinthExercise.java" afterDir="false" />
+    <list default="true" id="d56853d0-dc65-4600-9b00-c8e14ff4f1b7" name="Changes" comment="        Update to the classwork">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homeExercise1/EighthExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homeExercise1/EighthExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homeExercise1/SixthExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homeExercise1/SixthExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EighthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EighthExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FifthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FifthExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FourthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SecondExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeventhExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeventhExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SixthExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SixthExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThirdExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThirdExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,15 +32,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20mMmWpSq2o470Kbcw2fcLBmjcG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TenthExercise">
     <configuration name="EighthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EighthExercise" />
       <module name="homeExercise1" />
@@ -38,12 +66,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NinthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NinthExercise" />
+      <module name="homeExercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeventhExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeventhExercise" />
+      <module name="homeExercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SixthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SixthExercise" />
+      <module name="homeExercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenthExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TenthExercise" />
+      <module name="homeExercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TenthExercise" />
+        <item itemvalue="Application.NinthExercise" />
         <item itemvalue="Application.EighthExercise" />
+        <item itemvalue="Application.SeventhExercise" />
+        <item itemvalue="Application.SixthExercise" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="my classwork">
       <created>1636617489949</created>
@@ -73,8 +134,29 @@
       <option name="project" value="LOCAL" />
       <updated>1636620133349</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="        Update to the classwork">
+      <created>1636620290316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636620290316</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d56853d0-dc65-4600-9b00-c8e14ff4f1b7" name="Changes" comment="        Update to the classwork" />
+      <created>1636645472109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636645472109</updated>
+      <workItem from="1636645474835" duration="3747000" />
+      <workItem from="1636667970684" duration="8475000" />
+      <workItem from="1636806986767" duration="18873000" />
+      <workItem from="1636882385442" duration="19662000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -91,6 +173,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my classwork" />
     <MESSAGE value="Update to the classwork" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to the classwork" />
+    <MESSAGE value="        Update to the classwork" />
+    <option name="LAST_COMMIT_MESSAGE" value="        Update to the classwork" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="27" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

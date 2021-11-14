@@ -33,7 +33,7 @@ public class SeventhExercise {
         if (day < 1 || day > 7) {
             System.out.println("You chose an invalid day.");
         } else if (day == 7 || day == 6) {
-            System.out.println("Sorry, but on weekends our office closed.");
+            System.out.println("Sorry, on Friday and Saturday our office closed.");
         } else if (day == 1) {
             hourChoosing();
         } else if (day == 2) {

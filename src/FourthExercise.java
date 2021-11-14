@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// A program that finds two  x1 and x2 of a quadratic equation.
+
 public class FourthExercise {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -32,4 +32,4 @@ public class FourthExercise {
     public static double rootFormula (int parameterA, int parameterB, int parameterC){
         return Math.sqrt(Math.pow(parameterB, 2) - 4 * parameterA * parameterC);
     }
-}// End of program.
+}

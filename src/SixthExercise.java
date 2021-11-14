@@ -1,13 +1,6 @@
 import java.util.Scanner;
 
 public class SixthExercise {
-    public static void userParameter(int firstNumber, int difference, int amountOfNumbers) {
-        for (int i = 0; i < amountOfNumbers; i++){
-            System.out.println(firstNumber);
-            firstNumber = firstNumber + difference;
-        }
-    }
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the first number of the set :");
@@ -19,7 +12,15 @@ public class SixthExercise {
         System.out.println("Please enter the amount of the numbers you want :");
         int amountOfNumbers = scanner.nextInt();
 
+        System.out.println("The new set of numbers is: ");
        userParameter(firstNumber, difference, amountOfNumbers);
+    }
+
+    public static void userParameter(int firstNumber, int difference, int amountOfNumbers) {
+        for (int i = 0; i < amountOfNumbers; i++){
+            System.out.println(firstNumber);
+            firstNumber = firstNumber + difference;
+        }
     }
 }
 
